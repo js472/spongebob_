@@ -6,7 +6,7 @@ Spongebob;Sandy;2,5
 Spongebob ;Perla;2
 Spongebob;Ms. Puff;1,5
 Spongebob;Mr. Krabs ;2
-Spongebob;Plankton;0,5
+Spongebob;Plankton;1
 Patrick;Spongebob;3
 Patrick;Thaddäus;1,5
 Patrick;Sandy;2
@@ -21,12 +21,12 @@ Mr. Krabs ;Thaddäus;2
 Mr. Krabs;Ms. Puff;3
 Mr. Krabs;Perla;3
 Plankton;Karen;3
-Plankton ;Spongebob;0,5
+Plankton ;Spongebob;1
 Karen ;Plankton ;3
-Karen ;Spongebob;0,5
+Karen ;Spongebob;1
 Sandy;Spongebob;3
 Sandy ;Patrick;2
-Ms. Puff;Spongebob;1
+Ms. Puff;Spongebob;1,5
 Ms. Puff;Mr. Krabs ;3
 Garry;Patrick;2,5
 Garry;Spongebob;3
